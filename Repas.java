@@ -21,7 +21,7 @@ public class Repas {
 	}
 	public  void setDate(){
 		this.date=date
-	]
+	}
   
 }
 
